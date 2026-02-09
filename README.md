@@ -32,6 +32,3 @@ How to Run
 
 Author
 Aloka Kumar Gouda
-Author
-
-Aloka Kumar Gouda
